@@ -1,0 +1,15 @@
+1 sneakers nike 45 2000
+2 sneakers adidas 46 3000
+3 sneakers reebok 47 2500
+4 boots adidas 42 2100
+5 sneakers nike 45 3600
+6 sneakers reebok 43 3200
+7 boots reebok 45 3000
+8 boots adidas 42 2000
+9 sneakers nike 46 2400
+10 boots reebok 44 2500
+11 sneakers nike 42 2600
+12sneakers nike 44 2700
+13 boots adidas 41 2200
+14 boots nike 46 3100
+15 sneakers adidas 45 2100
